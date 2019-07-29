@@ -20,6 +20,7 @@ class LifeCycle extends React.Component {
       componentDidMount(){
           console.log("DID MOUNT CALLED ======");
 
+        console.log('method called');
         //   const element = ReactDOM.findDOMNode(this);
  
         //   const child = element.firstChild;
